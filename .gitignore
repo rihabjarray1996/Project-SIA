@@ -3,6 +3,34 @@ __pycache__/
 .ipynb_checkpoints/
 venv/
 
+ .bash_history
+        .bash_logout
+        .bashrc
+        .cache/
+        .config/
+        .gitconfig
+        .ipython/
+        .jupyter/
+        .landscape/
+        .lesshst
+        .local/
+        .motd_shown
+        .profile
+        .python-version
+        .python_history
+        .python_history-01322.tmp
+        .ssh/
+        .sudo_as_admin_successful
+        .zshrc
+        Data.xlsx
+        Docs/
+        Project-SIA/
+        Python Project.ipynb
+        course/
+        git_test/
+        jupyter-env/
+        notebooks/
+
 
 
 

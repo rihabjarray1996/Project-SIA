@@ -1,31 +1,8 @@
-        .bashrc
-        .config/
-        .ipython/
-        .jupyter/
-        .landscape/
-        .local/
-        .motd_shown
-        .python-version
-        .python_history
-        .python_history-01322.tmp
-        .sudo_as_admin_successful
-        .zshrc
-        Data.xlsx
-        Docs/
-        Python Project.ipynb
-        course/
-        data/
-        git_test/
-        jupyter-env/
-        path/ihab_jarray@LAPTOP-0D056NQ3:~$ # Ignore trash files
-.local/share/Trash/
-
-# Python bytecode
+data/
 __pycache__/
-*.py[oc]
+.ipynb_checkpoints/
+venv/
 
-# Ignore pip's cache and other temporary files
-pip-log.txt
 
 
 

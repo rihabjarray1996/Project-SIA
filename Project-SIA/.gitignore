@@ -1,0 +1,9 @@
+# Python bytecode files
+*.pyc
+__pycache__
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset (raw data that shouldn’t be pushed to GitHub)
+data/*.csv
